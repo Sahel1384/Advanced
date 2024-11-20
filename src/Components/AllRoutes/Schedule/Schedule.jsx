@@ -103,7 +103,7 @@ function Schedule() {
               <td className="p-5 bg-main3 border-[2px] border-gray-100">
                 11:00 am
               </td>
-              <td className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 3D Graphic
               </td>
               <td
@@ -112,12 +112,12 @@ function Schedule() {
               >
                 Computer Science
               </td>
-              <td className=" text-sm bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className=" text-sm border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 Creative Writing
               </td>
               <td
                 rowSpan="3"
-                className="p-5 text-sm bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 text-sm border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Art & Design
               </td>
@@ -136,11 +136,11 @@ function Schedule() {
               <td className="w-32  border-[2px] border-gray-100   font-sans font-medium duration-300 hover:text-white cursor-pointer"></td>
               <td
                 rowSpan="2"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 3D Graphics
               </td>
-              <td className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 Programming
               </td>
             </tr>
@@ -167,18 +167,18 @@ function Schedule() {
                 2:00 am
               </td>
               <td className="w-32  border-[2px] border-gray-100   font-sans font-medium duration-300 hover:text-white cursor-pointer"></td>
-              <td className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 Programming
               </td>
-              <td className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 Computer Science
               </td>
-              <td className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
+              <td className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer">
                 Programming
               </td>
               <td
                 rowSpan="2"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Computer Science
               </td>
@@ -190,13 +190,13 @@ function Schedule() {
               </td>
               <td
                 rowSpan="3"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Programming
               </td>
               <td
                 rowSpan="2"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Art and Design
               </td>
@@ -216,7 +216,7 @@ function Schedule() {
               <td className="w-32  border-[2px] border-gray-100   font-sans font-medium duration-300 hover:text-white cursor-pointer"></td>
               <td
                 rowSpan="2"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Programming
               </td>
@@ -225,7 +225,7 @@ function Schedule() {
               </td>
               <td
                 rowSpan="2"
-                className="p-5 bg-main3 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
+                className="p-5 border-[2px] border-gray-100 bg-main3 hover:bg-main1 font-sans font-medium duration-300 hover:text-white cursor-pointer"
               >
                 Programming
               </td>
